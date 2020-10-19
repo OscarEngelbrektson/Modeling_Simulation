@@ -7,4 +7,4 @@ Taken Spring 2020, Buenos Aires with Prof. Scheffler.
 * Analysis of cellular automata using Renormalization Group Analysis and Mean Field Approximations
 * Dynamic Network Simulations (Page Rank Algorithm, Watts-Strogatz, Barabasi, Erdos Renyi)
 
-![Traffic Flow Plot](https://github.com/OscarEngelbrektson/Modelling_and_Simulation/tree/main/Class%20work/Images%20and%20datasets/TrafficFlow-Both.png?raw=true)
+![Traffic Flow Plot](https://raw.githubusercontent.com/OscarEngelbrektson/Modelling_and_Simulation/main/Class%20work/Images%20and%20datasets/TrafficFlow-Both.png)
